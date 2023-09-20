@@ -39,6 +39,9 @@ dependencies:
   screenshot: ^2.1.0
   share_plus: ^7.1.0
   lottie: ^2.6.0
+  nfc_manager: ^3.3.0
+  flutter_nfc_kit: ^3.3.3
+  ndialog: ^4.3.0
 
 dev_dependencies:
   flutter_test:
@@ -65,6 +68,7 @@ flutter:
   assets:
     - assets/images/logowithnobg.png
     - assets/images/nfc_animation.json
+    - assets/images/activation.json
 
   # To add assets to your application, add an assets section, like this:
   # assets:
